@@ -1,48 +1,31 @@
 # Lending Club Case Study
 > The objective is to identify predictors of default so that at the time of loan application, we can use those variables for approval/rejection of the loan.
 
+```
+Identification of such defaulters applicants using EDA is the aim of this case study.   
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+Perform an analysis to understand the driving factors (or driver variables)
+behind loan default, i.e.the variables which are strong indicators of default.  
+The company can utilise this knowledge for its portfolio and risk assessment.
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+```
+#### Step 1: Data Cleaning 1  
+#### Step 2: Univariate Analysis
+#### Step 3: Segmented Univariate Analysis
+#### Step 4: Bivariate/Multivariate Analysis
+#### Step 5: Recommendations
 
 ## Technologies Used
 - python , jupyter notebook
 - numpy ,pandas, matplotlib , seaborn
-- missingno , fancyimpute 
+- missingno , fancyimpute
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@mayank2290] - feel free to contact me!
+Created by
+- [@mayank2290] - feel free to contact me!
 
 
 <!-- Optional -->
